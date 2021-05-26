@@ -172,13 +172,3 @@
             });
     });
 });
-
-function menuToggle(){
-var navMob = document.getElementById('navMob');
-// var overlay = document.getElementById('overlayMob');
-navMob.style.display == 'none' ? (
-navMob.style.display == 'block'
-) : (
-navMob.style.display = 'none'
-);
-}
